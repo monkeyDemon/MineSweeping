@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MineSweepping.Pane">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Members>
+      <Method Name="Pane" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAJAAAAAAAAAgAAAQAAAAAAACABAAAAAA=</HashCode>
+      <FileName>Pane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MineSweepping.PaneState">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Pane.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
